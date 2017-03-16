@@ -1,0 +1,68 @@
+* {
+	margin: 0;
+}
+
+html, body { height: 100%;
+
+}
+
+h1, h2, h3, h4, h5, h6, p {
+	margin-bottom: 20px;
+}
+
+nav { height: 50px;
+	  width: 100%;
+	  background-color: rgba(0,0,0,.5);
+	  position: fixed;
+	  z-index: 99;
+	  text-align: center;
+
+}
+
+nav a {
+	text-decoration: none;
+	color: #FEFEFE;
+	margin-left: 30px;
+	line-height: 50px;
+}
+
+.sect {
+	height: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.subSection {
+	height: 50%;
+	background-color: #C8CDDF;
+}
+
+.sectOne {
+	background-image: url("../images/CzOXkSv-e39-m5-wallpaper.jpg")
+}
+
+.sectTwo {
+	background-image: url("../images/0P3AucW-e39-m5-wallpaper.jpg");
+}
+
+.sectThree {
+	background-image: url("../images/U8bJdmF-e39-m5-wallpaper.jpg");
+}
+
+.sectFour {
+	background-image: url("../images/HcTWKaY-e39-m5-wallpaper2.jpg")
+}
+
+.sectFive {
+	background-image: url("../images/Qa4qnBC-e39-m5-wallpaper2.jpg");
+}
+
+.sectSix {
+	background-image: url("../images/sqvmqV8-e39-m5-wallpaper2.jpg");
+} 
+.navbar-text > a {
+	color: inherit;
+	text-decoration: none;
+	margin-right: 20px;
+}
